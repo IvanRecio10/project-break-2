@@ -1,1 +1,0 @@
-//firebase.js - configuracion de la firebase
